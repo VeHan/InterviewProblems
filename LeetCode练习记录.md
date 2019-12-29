@@ -8,3 +8,6 @@
 (2) sum[j] - sum[i] = sum[i-j]，sum数组为累加结果的序列。用map存储(sum, sum_count)，sum_count为累加结果为sum出现的次数。 O(n)  
 练习次数: ✅12.29
 
+283. [移动零](https://leetcode-cn.com/problems/move-zeroes/submissions/)
+解题思路: 
+
