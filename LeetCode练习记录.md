@@ -9,5 +9,5 @@
 练习次数: ✅12.29
 
 283. [移动零](https://leetcode-cn.com/problems/move-zeroes/submissions/)
-[解题思路](leetcode_238.md)
+[解题思路](leetcode/leetcode_238.md)
 
