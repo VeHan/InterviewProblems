@@ -12,3 +12,22 @@
 [解题思路](leetcode/leetcode_238.md)  
 练习次数：✅12.29
 
+4. [11.盛水最多的容器]()
+[解题思路] 夹逼法
+练习次数：✅2019.12.31
+
+5. [42.接雨水]
+[解题思路](leetcode/code/42.接雨水.py)   夹逼法
+练习次数：✅2019.12.30
+
+# 栈
+1. [20.有效的括号](https://leetcode-cn.com/problems/valid-parentheses)  
+[解题思路](leetcode/code/20.有效的括号.py) 使用栈匹配括号  
+练习次数：✅2020.1.20  
+
+2. [155.最小栈](https://leetcode-cn.com/problems/min-stack/)
+[解题思路]  
+[解法一](leetcode/code/155.最小栈.py) 每次push和pop求一次最小值，效率低一点 
+[解法二](leetcode/code/155.最小栈_解法2.py)辅助栈法，创建一个辅助栈专门来放最小值
+
+3. [84]
