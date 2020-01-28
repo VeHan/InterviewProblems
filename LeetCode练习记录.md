@@ -31,3 +31,16 @@
 [解法二](leetcode/code/155.最小栈_解法2.py)辅助栈法，创建一个辅助栈专门来放最小值
 
 3. [84]
+
+
+# 哈希表、映射、集合
+1. [242.有效的异位词](https://leetcode-cn.com/problems/valid-anagram/)
+[解题] (leetcode/code/242.有效的异位词.py) 字典
+练习次数: ✅2020.1.28
+
+2. [49.字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
+[解题] (leetcode/code/49.字母异位词分组.py)
+练习次数: ✅2020.1.28
+
+3. [1.两数之和](https://leetcode-cn.com/problems/two-sum/description/)
+[解题] (leetcode/code/1.两数只和.py)
